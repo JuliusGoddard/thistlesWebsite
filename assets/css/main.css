@@ -2503,3 +2503,12 @@ input, select, textarea {
 				}
 
 	}
+
+	#menupicture {
+		transition: transform .2s;
+
+	}
+
+	#menupicture:hover {
+		transform: scale(1.5);
+	}
